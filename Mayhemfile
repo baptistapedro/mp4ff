@@ -1,0 +1,5 @@
+project: mp4ff
+target: mp4ff
+
+cmds:
+  - cmd: /mp4ff-info @@
